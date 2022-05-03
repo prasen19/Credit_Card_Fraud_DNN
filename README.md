@@ -12,6 +12,4 @@
 5. The Results are Recall: 0.80, Precision: 0.79, F1 Score:  AUC: 0.92
 
 
-
-
 The dataset can be downloaded [here](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle.
