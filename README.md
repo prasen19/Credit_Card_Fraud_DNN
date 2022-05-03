@@ -7,9 +7,11 @@
 
 3. The Dataset is highly imbalanced. So we must achieve high recall such that we should not miss any fraud transaction. 
 
-4. This was one of the Kaggle competition and the dataset was made available on Kaggle.
+4. This was one of the Kaggle competition and the dataset was made available on Kaggle.ld 
 
-5. The Results are Recall: 0.80, Precision: 0.79, F1 Score:  AUC: 0.92
+5. AS the dataset is highly imbalanced, the threshold is set to 0.3 for predictions.
+
+5. The Results are Recall: 0.80, Precision: 0.85, F1 Score: 0.82, AUC: 0.94
 
 
 The dataset can be downloaded [here](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle.
